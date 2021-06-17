@@ -1,3 +1,5 @@
+![](./header.svg)
+
 Hello, I'm Romain, a **data scientist** and **web developer** based in Montreal.
 
 I recently completed my **PhD in biomechanics** focusing on the development of musculoskeletal models of the upper limb. Throughout my doctoral training, I published about 20 scientific papers and international presentations, taught university courses and developed several open source software.
