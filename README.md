@@ -8,4 +8,4 @@ While my training is more geared toward data science, I learned to design **inte
 
 Outside of work, I am a bike racer. Several years of competition in this sport have taught me to **focus on what I can control** and to be able to **adapt, execute and perform** in any situation.
 
-![](header.svg)
+![](./header.svg)
