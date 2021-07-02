@@ -7,3 +7,5 @@ In my day-to-day work, I implement, interpret and deploy **machine learning mode
 While my training is more geared toward data science, I learned to design **interactive dashboards** and **effective data visualisations** built on modern technologies that scale well with large and complex use cases.
 
 Outside of work, I am a bike racer. Several years of competition in this sport have taught me to **focus on what I can control** and to be able to **adapt, execute and perform** in any situation.
+
+![](header.svg)
