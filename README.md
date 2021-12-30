@@ -1,4 +1,4 @@
-Hello, I'm Romain, a **data scientist** and **web developer** based in Montreal.
+Hello, I'm Romain, a **data scientist** and **web developer** currently working for the CAE Artificial Intelligence Strategy Team and the Montreal Canadiens.
 
 In my day-to-day work, I implement, interpret and deploy **machine learning models** and **statistical analysis** that help the decision-making process. While my training is more geared toward data science, I also design **websites**, **interactive dashboards** and **effective data visualisations** built on modern technologies that scale well with large and complex use cases.
 
