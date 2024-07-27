@@ -1,4 +1,4 @@
-Hello, I'm Romain, a **data scientist** and **web developer** currently working as a Senior Data Scientist for Manulife.
+Hello, I'm Romain, a **data scientist** and **web developer** currently working as a Senior Data Scientist for Manulife, specializing in generative AI.
 
 In my daily work, I implement, interpret, and deploy **machine learning models** and **statistical analyses** to aid decision-making. Although my training is primarily in data science, I also design **websites**, **interactive dashboards**, and **effective data visualizations** using modern technologies that scale well for large and complex use cases.
 
